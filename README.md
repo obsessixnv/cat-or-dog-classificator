@@ -13,3 +13,8 @@ This structure represents the organization of your dataset:
 
 
 You can use the [Kaggle Dogs vs. Cats dataset](https://www.kaggle.com/c/dogs-vs-cats/data) for this project.
+
+Acknowledgements
+- PyTorch
+- OpenCV
+- Kaggle Dogs vs. Cats dataset
